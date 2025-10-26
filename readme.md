@@ -1,4 +1,5 @@
 # The GCP DevOps Course
+## Overview
 GCP DevOps refers to the practice of implementing DevOps principles and practices using Google Cloud Platform (GCP) services and tools. DevOps is a set of practices that combines software development (Dev) and IT operations (Ops), aiming to shorten the systems development life cycle and provide continuous delivery with high software quality. GCP offers a range of cloud services that support the automation, collaboration, integration, and speed that DevOps emphasizes. These services facilitate various DevOps processes including but not limited to:
 
 1. **Source Code Management**: Google Cloud Source Repositories provide fully-featured, scalable, private Git repositories hosted on Google Cloud.
