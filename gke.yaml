@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: gcp-devops-gke
-        image: gcr.io/loyal-throne-476407-h3/gcpdevops-dev:latest
+        image: gcr.io/terraform-cluster-476810/gcpdevops-dev:latest
         ports:
         - containerPort: 5000
         env:
